@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    text-align: center;
+
+}
+
+p{
+    color: white;
+    font-family: trebuchet ms;
+    padding: 20px;
+    border-style: solid;
+    border-color: white;
+}
+
+h1{
+    color: white;
+    font-family: trebuchet ms;
+}
+
+h2{
+    color: white;
+    font-family: trebuchet ms;
+}
+
+
